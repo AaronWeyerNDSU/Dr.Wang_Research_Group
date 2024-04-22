@@ -1,7 +1,7 @@
 ## test
 - test1  
 
-## inprog
+## Todo
 - test2  
 
 ## complete
