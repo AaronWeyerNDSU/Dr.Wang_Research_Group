@@ -1,6 +1,6 @@
 ## Back Burner
 - Calibrate Lab Machinery #lab #measurements #resistance  
-  [Calibrate lab Machinery](/Calibrate%20lab%20Machinery.md)
+  [Calibrate lab Equiptment](/Calibrate%20lab%20Equiptment.md)
 
 ## Todo
 - test2  
