@@ -8,9 +8,26 @@
 3) When possible, link to other files.
     - The goal of this note taking method is to create a network of files.
     - This helps to reduce redundancy and conflicts in our notes and research.
+4) Use [MarkDown](https://www.markdownguide.org/tools/noteshub/) formatting as much as possible. When editing a file press the ⓘ button to see a list of all markdown formatting options available.
 
 # File Creation best practices
+- Use underscores (_) instead of spaces.
+- Don't be too specific with names.
+  - If it can be a section in a different file, make it a section in that file.
 
+Good | Bad
+-|-
+KWO_Measurements | KWO_overnight_measurements_3-16-2024
+MXene_Cancer_Detection_Mechanisms | MXene_Cancer_Detection_Mechanism_Possibility_4
+CrWO_Synthesis | CrWO_Failed_Test_Batches
+Noise_In_Measurements | The_Stupid_Keithley_Is_Acting_Up_Again
+
+- If a section in a file gets too large, break it off into a new file. Link to the new file in place of the old file.
+  - **Example:** File "A" has a section called "B". Section B is extremely large.
+    - Create a new file called "B".
+    - move contents from file A section B into file B.
+    - Remove contents from file A section B.
+    - Create link to file B in file A section B.
 
 # Merge conflict
 If multiple people are editing a note, a merge conflicts can occur.
