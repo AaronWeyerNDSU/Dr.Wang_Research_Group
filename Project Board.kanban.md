@@ -6,9 +6,9 @@
 - test2  
 
 ## In Progress
-- test3  
 - test4  
 
 ## Complete
+- test3  
 
 ## Needs Rework
