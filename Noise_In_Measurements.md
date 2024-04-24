@@ -1,0 +1,3 @@
+# Resistance
+# Humidity
+# Temperature
