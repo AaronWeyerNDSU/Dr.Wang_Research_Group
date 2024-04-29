@@ -12,6 +12,5 @@
   [KWO_Sensor_Design](/KWO_Sensor_Design.md)
 
 ## Complete
-- test3  
 
 ## Needs Rework
