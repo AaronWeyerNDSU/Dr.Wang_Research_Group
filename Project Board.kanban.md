@@ -3,7 +3,6 @@
   [Calibrate_Lab_Equiptment](/Calibrate_Lab_Equiptment.md)
 
 ## Todo
-- test2  
 - Investigate ways to lower resistance of sensor.  
 
 ## In Progress
