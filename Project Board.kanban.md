@@ -6,6 +6,7 @@
 ## Todo
 - Investigate ways to lower resistance of sensor. #kwo #measurements #resistance #AaronW #AaronK  
   [KWO_Sensor_Design](/KWO_Sensor_Design.md)
+- Make instructions for how to create KWO slides.  
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
