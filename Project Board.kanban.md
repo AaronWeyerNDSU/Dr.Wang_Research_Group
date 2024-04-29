@@ -1,6 +1,7 @@
 ## Back Burner
 - Calibrate Lab Machinery #lab #measurements #resistance #DrWang  
-  [Calibrate_Lab_Equiptment](/Calibrate_Lab_Equiptment.md)
+  [Lab_Equiptment](/Lab_Equiptment.md)
+  
 
 ## Todo
 - Investigate ways to lower resistance of sensor. #kwo #measurements #resistance #AaronW #AaronK  
