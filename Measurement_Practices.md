@@ -10,4 +10,5 @@ A good way to learn how to measure resistance using the Keithley multi-meter is 
 ## Automated Measurements
 Oftentimes, collecting many data points over a period of time is useful. A program was created to collect resistance information from the Keithley once every second. The program can be found in the GitHub repo [here]()
 
+![image](.attachments/0aa650161dbbaceaab7a5a07498e4efb1562e2e5.png) 
 # Noise in measurements
