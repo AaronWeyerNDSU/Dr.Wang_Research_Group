@@ -14,7 +14,7 @@
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
-  [Noise_In_Measurements](/Noise_In_Measurements.md)
+  [Measurement_Practices](/Measurement_Practices.md)
 - Create Modifies K Composition KWO #kwo #lab #resistance #AaronK  
   [KWO_Sensor_Design](/KWO_Sensor_Design.md)
 
