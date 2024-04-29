@@ -4,6 +4,7 @@
 
 ## Todo
 - test2  
+- Investigate ways to lower resistance of sensor.  
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
