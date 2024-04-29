@@ -7,7 +7,7 @@ For all of our current testing we use slides with gold traces etched into them. 
 ![image](.attachments/84f1360897e32eed385bd85a2950b789da579dd9.jpg) 
 
 ### Change the KWO's thickness
-According to Aaron K. The thickness that the KWO is applied to the slide is inversely proportional to the resistance of the slide. Meaning that if the thickness of the KWO applied to the slide doubles, the sensors resistance is cut in half. This observation was based off some rough
+According to Aaron K. The thickness that the KWO is applied to the slide is inversely proportional to the resistance of the slide. Meaning that if the thickness of the KWO applied to the slide doubles, the sensors resistance is cut in half. 
 
 ### Change The K% of KWO Material
 Test different initial conditions to change the % of potassium in the KWO material
