@@ -3,7 +3,7 @@
   [Calibrate_Lab_Equiptment](/Calibrate_Lab_Equiptment.md)
 
 ## Todo
-- Investigate ways to lower resistance of sensor.  
+- Investigate ways to lower resistance of sensor. #kwo #measurements #resistance #AaronW  
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
