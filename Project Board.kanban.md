@@ -20,5 +20,6 @@
 
 ## Complete
 - thing  
+  [Lab_Equiptment](/Lab_Equiptment.md)
 
 ## Needs Rework
