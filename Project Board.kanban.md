@@ -19,7 +19,5 @@
   [KWO_Sensor_Design](/KWO_Sensor_Design.md)
 
 ## Complete
-- thing  
-  [Lab_Equiptment](/Lab_Equiptment.md)
 
 ## Needs Rework
