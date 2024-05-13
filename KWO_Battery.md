@@ -1,4 +1,15 @@
 Today (5/13/2024), It was discovered that the KWO slides our group was using for testing concentrations of acetone, exhibit properties similar to batteries. This discovery came after Aaron K accidentally left a KWO slide connected to the Keithley multi meter on the ohms setting for approximately 72 hours. After which, the slide showed significant discoloration along one terminal of the slide. 
 ![image](.attachments/ca123cc6bf26c139efdb06fea772e8092bd0dac1.png) 
-This was observed on Monday 5/13/2024 by Aaron K and Aaron W after the weekend. After observing the discoloration, both Aarons decided to test the slides response to acetone. After observing that the resistance across the slide appeared to be negative, Aaron W decided to connect the slide to a volt-meter to determine if the slide was holding a charge. The slide had a potential of 0.91V ~ 0.93V, and after being shorted, would recover to near the original potential. 
-# Creation of the Genesis slide
+This was observed on Monday 5/13/2024 by Aaron K and Aaron W after the weekend. After observing the discoloration, both Aarons decided to test the slides response to acetone. After observing that the resistance across the slide appeared to be negative, Aaron W decided to connect the slide to a volt-meter to determine if the slide was holding a charge. The slide had a potential of 0.91V ~ 0.93V, and after being shorted, would recover to near the original potential. This indicated that some form of chemical reaction was occurring, and not simple capacitance.
+# Creation of the Genesis Slide
+
+# Characteristics of Genesis Slide
+## Visual
+The anode of the slide appears to be dark blue gray in color, while the cathode appears to be a light gray with a hint of blue. The area between the anode and cathode appears to be a slightly lighter blue gray than the anode. The slide was originally all the light gray color of the cathode, but after its extended charging using the Keithley ohm-meter, it became darker. the pattern appears to follow the gold tines under the KWO material. 
+
+There are several black spots on the slide, and chips in the material. It is currently assumed that these are impurities and defects, and do not contribute to the slides electrical properties.
+
+
+
+
+# Mechanism Hypothesis
