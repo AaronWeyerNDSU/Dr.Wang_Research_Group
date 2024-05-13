@@ -6,10 +6,16 @@ This was observed on Monday 5/13/2024 by Aaron K and Aaron W after the weekend. 
 # Characteristics of Genesis Slide
 ## Visual
 The anode of the slide appears to be dark blue gray in color, while the cathode appears to be a light gray with a hint of blue. The area between the anode and cathode appears to be a slightly lighter blue gray than the anode. The slide was originally all the light gray color of the cathode, but after its extended charging using the Keithley ohm-meter, it became darker. the pattern appears to follow the gold tines under the KWO material. 
-
+{PHOTO OF BACK OF SLIDE HERE}
 There are several black spots on the slide, and chips in the material. It is currently assumed that these are impurities and defects, and do not contribute to the slides electrical properties.
-
-
-
+## Reman
+## XRD
+## Electrical
+{Resistance vs voltage graph}
 
 # Mechanism Hypothesis
+## $WO_3$ ⟷ $WO_2$ Reduction
+This is the first proposed explanation for the Genesis slide's ability to store charge. some form of reduction within the tungsten oxide.
+
+# Recreation attempts
+# Variables in Creation of Battery Cells
