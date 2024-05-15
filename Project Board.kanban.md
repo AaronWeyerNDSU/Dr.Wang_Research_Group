@@ -15,6 +15,8 @@
   Add the recipe used to create the genesis slide under heading "# Recipes", subheading "## OG Recipe".
   be as detailed as you can be with how the material was synthesized. This will be vital as a starting point for characterizing this material. 
   
+  Also add reman and XRD charts to the file as well, in their respective sections. 
+  
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
