@@ -11,11 +11,11 @@
   Right now you are the only person who knows how these slides are being created. Make a set of instructions for how you have been creating these slides. Ideally someone with little to no experiance should be able to follow these instructions.
   If possible, add details such as how deviations from your instructions affects the resulting sensor. 
   If possible, add details about why you do things a certain way.
-- Add "OG" KWO recipe to KWO_Battery #AaronK #kwo #battery  
+- Add info about genesis slide to KWO_Battery #AaronK #kwo #battery  
   Add the recipe used to create the genesis slide under heading "# Recipes", subheading "## OG Recipe".
   be as detailed as you can be with how the material was synthesized. This will be vital as a starting point for characterizing this material. 
   
-  Also add reman and XRD charts to the file as well, in their respective sections. 
+  Also add reman and XRD charts to the file as well, in their respective sections under "# Characteristics of Genesis Slide"
   
 
 ## In Progress
