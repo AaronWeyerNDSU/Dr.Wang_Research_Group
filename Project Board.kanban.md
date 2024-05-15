@@ -11,6 +11,7 @@
   Right now you are the only person who knows how these slides are being created. Make a set of instructions for how you have been creating these slides. Ideally someone with little to no experiance should be able to follow these instructions.
   If possible, add details such as how deviations from your instructions affects the resulting sensor. 
   If possible, add details about why you do things a certain way.
+- Add "OG" KWO recipe to KWO_Battery  
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
