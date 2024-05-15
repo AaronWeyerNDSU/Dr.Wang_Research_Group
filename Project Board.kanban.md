@@ -18,6 +18,8 @@
   
   Also add reman and XRD charts to the file as well, in their respective sections under "# Characteristics of Genesis Slide"
   
+  Also add a detailed description to the "# Creation of the Genesis Slide" section, anything you think might be relevant. 
+  
 
 ## In Progress
 - Investigate Noise in Measurements #lab #measurements #noise #AaronW  
