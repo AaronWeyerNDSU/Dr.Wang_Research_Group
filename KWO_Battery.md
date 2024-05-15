@@ -11,11 +11,69 @@ There are several black spots on the slide, and chips in the material. It is cur
 ## Reman
 ## XRD
 ## Electrical
-{Resistance vs voltage graph}
+- Max Voltage: 0.9V
+- Voltage after Discharge: 0.2V
+- Voltage after Recharge: 0.4V
 
 # Mechanism Hypothesis
 ## $WO_3$ ⟷ $WO_2$ Reduction
 This is the first proposed explanation for the Genesis slide's ability to store charge. some form of reduction within the tungsten oxide.
 
 # Recreation attempts
+## Slide 2
+
 # Variables in Creation of Battery Cells
+- Thickness of materials in cells
+  - **Genesis**: 2 pieces of tape (0.1mm approx)
+  - **Best**:
+  - **Worst**:
+- Charging voltage
+  - **Genesis**: 3 - 4V (Keithely Ohm Measurement)
+  - **Best**:
+  - **Worst**:
+- Charging time
+  - **Genesis**: ~64 Hours
+  - **Best**:
+  - **Worst**:
+- Potassium concentration
+  - **Genesis**: 125% of OG recipe
+  - **Best**:
+  - **Worst**:
+- Acid Concentration (PH)
+  - **Genesis**: 100% of OG recipe
+  - **Best**:
+  - **Worst**:
+- Coordinating agents
+  - **Genesis**: Oxalic acid 100% of OG recipe
+  - **Best**:
+  - **Worst**:
+- Tungsten Concentration
+  - **Genesis**: 100% of OG recipe
+  - **Best**:
+  - **Worst**:
+- Crystal Morphology
+  - **Genesis**: Hexagonal
+  - **Best**:
+  - **Worst**:
+- Annealing time
+  - **Genesis**: 1 Hour
+  - **Best**:
+  - **Worst**:
+- Annealing temperature
+  - **Genesis**: 350degC
+  - **Best**:
+  - **Worst**:
+- Substitute Tungsten
+  - **Genesis**: OG recipe
+  - **Best**:
+  - **Worst**:
+# Properties of Battery
+Genesis Slide:
+
+Maximum Measured Voltage: 
+
+# Recipes
+## OG recipe
+
+# Experiment Design Path
+
