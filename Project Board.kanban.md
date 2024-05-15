@@ -12,6 +12,7 @@
   If possible, add details such as how deviations from your instructions affects the resulting sensor. 
   If possible, add details about why you do things a certain way.
 - Add info about genesis slide to KWO_Battery #AaronK #kwo #battery  
+  [KWO_Battery](/KWO_Battery.md)
   Add the recipe used to create the genesis slide under heading "# Recipes", subheading "## OG Recipe".
   be as detailed as you can be with how the material was synthesized. This will be vital as a starting point for characterizing this material. 
   
